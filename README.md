@@ -1,3 +1,7 @@
+Test for seeing if codex can one shot a mail agent (classic system design interview question). 
+
+
+
 # Mailsystem
 
 Production-ready, modular mail system built with FastAPI, PostgreSQL, Redis, and Celery.
