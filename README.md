@@ -1,3 +1,5 @@
+Codex attempt at one shotting a mail system. Ended up being more like a three shot. It can somehow do this, but will put "npm" in your conda environment.yml file. 
+
 # Mailsystem
 
 Modular mail system built with FastAPI, PostgreSQL, Redis, and Celery.
